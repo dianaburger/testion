@@ -9,16 +9,4 @@ div.square {
 
 }
 
-@keyframes spin {
 
-	0% {
-		transform: rotare (0deg);
-	}
-
-	100% {
-		transform: rotare (360 deg);
-	}
-	animation-duration: 2s;
-	animation-timing-function: ease;
-
-	}
