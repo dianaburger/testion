@@ -5,6 +5,7 @@ div.square {
 	margin: 30px auto;
 	background-color: #653119;
 	animation-name: spin;
+	animation-duration: 2s;
 
 }
 
@@ -18,4 +19,4 @@ div.square {
 		transform: rotare (360 deg);
 	}
 
-
+	}
