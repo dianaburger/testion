@@ -6,7 +6,6 @@ div.square {
 	background-color: #653119;
 	animation-name: spin;
 	animation-duration: 2s;
-	animation-timing-function: ease;
 
 }
 
