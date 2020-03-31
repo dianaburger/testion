@@ -1,0 +1,21 @@
+
+div.square {
+	width: 80px;
+	height: 80px;
+	margin: 30px auto;
+	background-color: #653119;
+	animation-name: spin;
+
+}
+
+@keyframes spin {
+
+	0% {
+		transform: rotare (0deg);
+	}
+
+	100% {
+		transform: rotare (360 deg);
+	}
+
+}
